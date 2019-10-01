@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [switz1873](https://github.com/switz1873)
+- Place: Ohio
+- Bio: Web developer / Systems Integrator
+- Github: [switz1873] (https://github.com/switz1873)
